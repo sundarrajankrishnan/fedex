@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "FedEx API for Node.JS",
   "author": {
-    "name": "Sundarrajan K | hephesthesis"    
+    "name": "Sundarrajan K | hephesthesis"
   },
   "maintainers": [
     {
@@ -21,11 +21,11 @@
   "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },  
+  },
   "dependencies": {
     "extend": "^1.2.1",
-    "soap": "^0.8.0",
+    "soap": "^0.24.0",
     "xml2json": "~0.6.1"
   },
-  "gitHead": ""   
+  "gitHead": ""
 }
